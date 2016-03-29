@@ -1,4 +1,5 @@
 password = "***REMOVED***"
 
-def hello():
-	return "hello"
+
+def secret():
+	return password
