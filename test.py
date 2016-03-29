@@ -1,4 +1,4 @@
-password = "something secret here"
+password = "***REMOVED***"
 
 def hello():
 	return "hello"
