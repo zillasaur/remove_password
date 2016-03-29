@@ -1,4 +1,4 @@
-password = "123456789"
+password = "something secret here"
 
 def hello():
 	return "hello"
