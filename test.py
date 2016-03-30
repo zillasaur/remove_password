@@ -1,4 +1,4 @@
-password = "***REMOVED***"
+password = "AAA"
 
 
 def secret():
